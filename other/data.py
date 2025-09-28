@@ -11,3 +11,4 @@ def find_first_unique_char(guys: str):
             return guys[i]
 
     return None
+#!

@@ -9,5 +9,6 @@ def test2_first_unique_char():
 
 def test3_first_unique_char():
     assert find_first_unique_char("aabbcc") is None
+    #!
 
 
